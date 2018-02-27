@@ -1,12 +1,5 @@
 # Sorting Algorithms
 
-    ____                         __  __      __
-   /  _/________ _____ ______   / / / /_  __/ /_______
-   / // ___/ __ `/ __ `/ ___/  / /_/ / / / / / ___/ _ \
- _/ /(__  ) /_/ / /_/ / /__   / __  / /_/ / (__  )  __/
-/___/____/\____/\____/\___/  /_/ /_/\____/_/____/\___/
-
-
 Running Example PYTHON / BASH
 
 To run, select either 'bubble', 'quick' or 'selection' sorts and add as first element in argument to pass,
@@ -59,7 +52,7 @@ test_sorting_algorithms.py for details on unit tests.
 -----------------------------
 
   
-  Expected:
+Unit Testing Example
 	
 	----------------------------------------------------------------------
 	Ran 11 tests in 0.001s
