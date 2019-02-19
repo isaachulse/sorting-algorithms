@@ -3,9 +3,7 @@ import sys
 
 ################################################################################
 ##                                                                            ##
-##  PYTHON  3 IMPLEMENTATION OF BUBBLE SORT, QUICK SORT AND SELECTION SORT,   ##
-##  USING A CONVERT FUNCTION TO STREAMLINE MIXED TYPE LISTS INTO FLOATS &     ##
-##  INTS. MADE BY ISAAC HULSE AS PART OF EBUYER DEVELOPER PROJECT :)          ##
+##  PYTHON  3 IMPLEMENTATION OF BUBBLE SORT, QUICK SORT AND SELECTION SORT    ##
 ##                                                                            ##
 ################################################################################
 
