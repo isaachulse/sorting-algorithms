@@ -1,11 +1,11 @@
 from sorting_algorithms import *
 import unittest
 
-################################################################################
-##                                                                            ##
-##  UNIT TESTING OF PYTHON IMPLEMENTED SEARCH ALGORITHMS FOR EBUYER PROJECT   ##
-##                                                                            ##
-################################################################################
+############################################################
+##                                                        ##
+##  UNIT TESTING OF PYTHON IMPLEMENTED SEARCH ALGORITHMS  ##
+##                                                        ##
+############################################################
 
 class main(unittest.TestCase):
 
